@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alecdrew
-- 👀 I’m interested in learning about Python & JavaScript...
-- 💞️ I’m looking to collaborate on anything product focussed...
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/alecdewell/)...
+- 👀 I’m interested in learning about Python & SQL
+- 💞️ I’m looking to collaborate on anything data analysis and basic machine learning
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/alecdewell/)
 
 <!---
 Alecdrew/Alecdrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
